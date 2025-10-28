@@ -1,3 +1,5 @@
+ruby 3.4.1
+
 Dictionary Complexity Score API – Documentation
 Overview
 
